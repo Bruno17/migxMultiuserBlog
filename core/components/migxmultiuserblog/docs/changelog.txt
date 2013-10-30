@@ -1,0 +1,5 @@
+Changelog for migxMultiuserBlog
+
+migxMultiuserBlog 1.0.0
+---------------------------------
+Initial Version
